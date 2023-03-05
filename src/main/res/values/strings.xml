@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentosBasicos</string>
+    <!--            Estos recursos seran para el fragmento ImcFragment-->
+    <string name="title_imc">IMC</string>
+    <string name="hint_kg">Ingrese su peso en Kg</string>
+    <string name="hint_altura">Ingrese su altura en m</string>
+    <string name="btn_convertir">COVERTIR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resultado">El resultado fue: </string>
+    <string name="imc"> </string>
+</resources>

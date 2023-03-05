@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#97E07CA3"
+    tools:context=".fragmentos.BlankFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/resultado"
+        android:layout_width="194dp"
+        android:layout_height="104dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="200sp"
+        android:text="@string/resultado"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/imc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="250sp"
+        android:text="@string/imc" />
+
+</FrameLayout>
